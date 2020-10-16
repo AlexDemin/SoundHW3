@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/HW1.egg-info/PKG-INFO
+src/HW1.egg-info/SOURCES.txt
+src/HW1.egg-info/dependency_links.txt
+src/HW1.egg-info/requires.txt
+src/HW1.egg-info/top_level.txt
