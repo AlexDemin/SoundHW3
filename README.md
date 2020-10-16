@@ -9,4 +9,4 @@ conda install pytorch torchvision -c pytorch
 
 conda install -y -c pytorch-nightly torchaudio
 
-до запуска ноутбука. Но так как нельзя запустить файлы больше 25 мб, то ни аудиоархив не получилось загрузить, ни модели. Поэтому их можно найти здесь: https://drive.google.com/drive/folders/1_LaJGY4sbHYBq5BqemLIPvd-Y68GoWxw?usp=sharing
+до запуска ноутбука. Но так как нельзя зугрузить файлы больше 25 мб, то ни аудиоархив не получилось загрузить, ни модели. Поэтому их можно найти здесь: https://drive.google.com/drive/folders/1_LaJGY4sbHYBq5BqemLIPvd-Y68GoWxw?usp=sharing
